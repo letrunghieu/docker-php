@@ -4,6 +4,7 @@ RUN apt-get update && apt-get install -y \
         build-essential \
         locales \
         zip \
+        libonig-dev \
         unzip \
         git \
         curl
